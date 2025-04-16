@@ -1,16 +1,27 @@
-# tdl
+# To-Do-List
 
-A new Flutter project.
+A sleek and user-friendly To-Do List app with task management, edit,, delete, search, and filter features to keep you organized.
 
-## Getting Started
+## Implementation 
 
-This project is a starting point for a Flutter application.
+The application was developed using Android Studio with the Dart language and Flutter 
+framework for cross-platform compatibility and UI rendering.
 
-A few resources to get you started if this is your first Flutter project:
+### Key features implemented 
+▪ Category Creation: Users can add multiple task categories such as "Quiz", "Daily 
+Life", etc.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+▪ Task Management: 
+▪ Add Task: Each task contains a name, date, and time, and is assigned under a selected category.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+▪ Edit Task: Tasks can be modified with updated values.
+
+▪ Delete Task: Users can delete any task from the list.
+
+▪ Search Functionality: A real-time search bar filters tasks based on keywords.
+
+▪ Date Filter: Tasks can be filtered by their scheduled date.
+
+▪ User Interface: Clean, responsive UI with navigation between task lists and input forms.
+
+
